@@ -6,7 +6,8 @@ public class Encrypted {
     final static int ALPHABET_LOWER_BOUND = 'a';
     final static int ALPHABET_UPPER_BOUND = 'z';
     public static void main(String[] args) {
-       String text = "we found a treasure!" ;
+       //String text = "we found a treasure!" ;
+       String text = "welcome to hyperskill" ;
 
     StringBuffer reverse = new StringBuffer();
 
